@@ -1,2 +1,3 @@
-# Balgopal-
-Hey there, Balgopal here
+#Hey there, Balgopal this side
+
+Third Year-undergraduate at IIT Gandhinagar
